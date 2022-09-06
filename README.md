@@ -18,7 +18,7 @@ Web developer
                                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
                   
                 <p align="left">
@@ -27,3 +27,4 @@ Web developer
                           
                       <a href="http://www.instagram.com/rohitjha01.code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/rohitjha01"><img src="https://github-readme-stats.vercel.app/api?username=rohitjha01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rohitjha01's GitHub stats" /></a>
+</p>
