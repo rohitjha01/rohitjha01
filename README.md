@@ -6,6 +6,7 @@ Web developer & Data Analyst
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sharewithrohitjha@gmail.com](mailto:sharewithrohitjha@gmail.com)
+* >>> View my resume - https://in.docworkspace.com/d/sIDOkjf6xAfya16YG
 
 ### Skills
 
